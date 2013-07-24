@@ -1,3 +1,5 @@
+# modified by alamsyah @2013.07.24 for Andromax-I AD682G EG909
+
 USE_CAMERA_STUB := true
 
 # inherit from the proprietary version
@@ -5,7 +7,7 @@ USE_CAMERA_STUB := true
 
 TARGET_ARCH := arm
 TARGET_NO_BOOTLOADER := true
-TARGET_BOARD_PLATFORM := unknown
+TARGET_BOARD_PLATFORM := msm7627a
 TARGET_CPU_ABI := armeabi-v7a
 TARGET_CPU_ABI2 := armeabi
 TARGET_ARCH_VARIANT := armv7-a-neon
